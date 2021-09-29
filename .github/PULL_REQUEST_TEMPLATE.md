@@ -6,7 +6,7 @@ This pull request includes a
 - [ ] Translation
 
 ## Changes
-The following changes were made (this change is also documented in the [change log](https://github.com/kartik-v/yii2-word-report/blob/master/CHANGE.md)):
+The following changes were made (this change is also documented in the [change log](https://github.com/kartik-v/yii2-google-docs/blob/master/CHANGE.md)):
 
 -
 -

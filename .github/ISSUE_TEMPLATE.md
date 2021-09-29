@@ -1,8 +1,8 @@
 ## Prerequisites
 
 - [ ] I have searched for similar issues in both open and closed tickets and cannot find a duplicate.
-- [ ] The issue still exists against the latest `master` branch of yii2-word-report.
-- [ ] This is not an usage question. I confirm having gone through and read the [documentation](http://demos.krajee.com/word-report) and [demos](http://demos.krajee.com/word-report-demo).
+- [ ] The issue still exists against the latest `master` branch of yii2-google-docs.
+- [ ] This is not an usage question. I confirm having gone through and read the [documentation](http://demos.krajee.com/google-docs) and [demos](http://demos.krajee.com/google-docs-demo).
 - [ ] This is not a general programming / coding question. (Those should be directed to the [webtips Q & A forum](http://webtips.krajee.com/questions)).
 - [ ] I have attempted to find the simplest possible steps to reproduce the issue.
 - [ ] I have included a failing test as a pull request (Optional).
@@ -38,10 +38,10 @@ I was expecting...
 #### Libraries
 
 - jQuery version:
-- yii2-word-report version:
+- yii2-google-docs version:
 
 ## Isolating the problem
 
-- [ ] This bug happens [on the demos page](https://demos.krajee.com/word-report-demo)
+- [ ] This bug happens [on the demos page](https://demos.krajee.com/google-docs-demo)
 - [ ] The bug happens consistently across all tested browsers
-- [ ] This bug happens when using yii2-word-report without other plugins.
+- [ ] This bug happens when using yii2-google-docs without other plugins.

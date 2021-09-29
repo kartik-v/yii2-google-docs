@@ -1,6 +1,6 @@
-Contributing to yii2-word-report
+Contributing to yii2-google-docs
 ================================
-Looking to contribute something to yii2-word-report? **Here's how you can help.**
+Looking to contribute something to yii2-google-docs? **Here's how you can help.**
 
 Using the issue tracker
 -----------------------
@@ -9,17 +9,17 @@ When [reporting bugs][reporting-bugs] or
 [issue tracker on GitHub][issue-tracker] is the recommended channel to use.
 
 The issue tracker **is not** a place for support requests. Refer the 
-[extension documentation and demos](http://demos.krajee.com/word-report) and/or refer to the
+[extension documentation and demos](http://demos.krajee.com/google-docs) and/or refer to the
 [webtips Q & A forum](http://webtips.krajee.com/questions) which are the better places to get help.
 
 How to contribute via a pull request?
 -------------------------------------
 Refer this [git workflow for contributors](.github/GIT-WORKFLOW.md).
 
-Reporting bugs with yii2-word-report
+Reporting bugs with yii2-google-docs
 ---------------------------------
 We really appreciate clear bug reports that _consistently_ show an issue
-within _yii2-word-report_.
+within _yii2-google-docs_.
 
 The ideal bug report follows these guidelines:
 
@@ -38,26 +38,26 @@ to are:
 - What is the bug and what is the expected outcome?
 - What browser(s) and Operating System have you tested with?
 - Does the bug happen consistently across all tested browsers?
-- What version of jQuery are you using? And what version of yii2-word-report?
-- Are you using yii2-word-report with other plugins?
+- What version of jQuery are you using? And what version of yii2-google-docs?
+- Are you using yii2-google-docs with other plugins?
 
 All of these questions will help others fix and identify any potential bugs.
 
-Requesting features in yii2-word-report
+Requesting features in yii2-google-docs
 ------------------------------------------
-Before starting work on a major feature for yii2-word-report, **read the
-[documentation](http://demos.krajee.com/word-report)  first** or you may risk spending a considerable amount of
+Before starting work on a major feature for yii2-google-docs, **read the
+[documentation](http://demos.krajee.com/google-docs)  first** or you may risk spending a considerable amount of
 time on something which the project developers are not interested in bringing into the project.
 
 Licensing
 ---------
 
-It should also be made clear that **all code contributed to yii2-word-report** must be
+It should also be made clear that **all code contributed to yii2-google-docs** must be
 licensable under the [BSD-3 license][licensing].  Code that cannot be released
 under this license **cannot be accepted** into the project.
 
-[issue-search]: https://github.com/kartik-v/yii2-word-report/search?q=&type=Issues
-[issue-tracker]: https://github.com/kartik-v/yii2-word-report/issues
-[licensing]: https://github.com/kartik-v/yii2-word-report/blob/master/LICENSE.md
-[reporting-bugs]: #reporting-bugs-with-yii2-word-report
-[requesting-features]: #requesting-features-in-yii2-word-report
+[issue-search]: https://github.com/kartik-v/yii2-google-docs/search?q=&type=Issues
+[issue-tracker]: https://github.com/kartik-v/yii2-google-docs/issues
+[licensing]: https://github.com/kartik-v/yii2-google-docs/blob/master/LICENSE.md
+[reporting-bugs]: #reporting-bugs-with-yii2-google-docs
+[requesting-features]: #requesting-features-in-yii2-google-docs

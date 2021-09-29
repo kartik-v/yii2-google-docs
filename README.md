@@ -7,7 +7,7 @@
     <hr>
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTP3NZQ6G2AYU"
        title="Donate via Paypal" target="_blank">
-        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
+	   <img height="60" src="https://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
     </a>
     &nbsp; &nbsp; &nbsp;
     <a href="https://www.buymeacoffee.com/kartikv" title="Buy me a coffee" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="kartikv" /></a>
@@ -18,7 +18,6 @@
 [![Stable Version](https://poser.pugx.org/kartik-v/yii2-google-docs/v/stable)](https://packagist.org/packages/kartik-v/yii2-google-docs)
 [![Unstable Version](https://poser.pugx.org/kartik-v/yii2-google-docs/v/unstable)](https://packagist.org/packages/kartik-v/yii2-google-docs)
 [![License](https://poser.pugx.org/kartik-v/yii2-google-docs/license)](https://packagist.org/packages/kartik-v/yii2-google-docs)
-
 [![Total Downloads](https://poser.pugx.org/kartik-v/yii2-google-docs/downloads)](https://packagist.org/packages/kartik-v/yii2-google-docs)
 [![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-google-docs/d/monthly)](https://packagist.org/packages/kartik-v/yii2-google-docs)
 [![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-google-docs/d/daily)](https://packagist.org/packages/kartik-v/yii2-google-docs)
@@ -27,7 +26,7 @@
 
 A Yii2 library to integrate the Google Docs API.
 
-### Documentation and Demo
+## Documentation and Demo
 
 TBD
 
